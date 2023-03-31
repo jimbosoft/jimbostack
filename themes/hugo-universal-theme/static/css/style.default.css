@@ -1,15 +1,3 @@
-/* Themed colors */
-:root {
-  --primary-accent: #38a7bb;
-  --navbar-border-top: #20616d;
-  --button-border: #2a7d8c;
-  --link-focus: #267280;
-  --form-shadow: rgba(56, 167, 187, 0.6);
-  --pagination-bg: #a7dbe5;
-  --link-hover-bg: #2c8494;
-  --navbar-focus: #80cbd9;
-}
-
 .clearfix:before,
 .clearfix:after,
 .navbar:before,
@@ -1207,7 +1195,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel h1 {
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 46px;
+  font-size: 2vw;
   letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
@@ -1223,7 +1211,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel ul,
 .home-carousel p {
-  font-size: 18px;
+  font-size: 1vw;
   font-weight: 700;
   padding: 0;
   text-transform: uppercase;
