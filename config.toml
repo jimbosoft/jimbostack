@@ -1,4 +1,4 @@
-baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://devcows.github.io/logical/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "LSD"
 theme = "hugo-universal-theme"
 themesDir = "themes"
@@ -405,8 +405,8 @@ pluralizelisttitles = false
     latitude = "-12.043333"
     longitude = "-77.028333"
 
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    # Style options: light-blue, blue, green, marsala, pink, red, turquoise, violet
+    style = "lightblue"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
