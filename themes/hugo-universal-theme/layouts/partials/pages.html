@@ -1,0 +1,14 @@
+{{ $headless := .Site.GetPage "/pages" }}
+{{ $reusablePages := $headless.Resources.ByType "page" }}
+{{ range $reusablePages }}
+<section class="bar no-mb" style="background: url('{{ .Params.background | relURL }}'); background-repeat: no-repeat;">
+  <div class="container" style="padding-top: 3em; padding-bottom: 3em;">
+    <div class="row">
+      <div class="col-12 col-sm-offset-6">
+        <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
+        <p>{{ .Content }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
