@@ -1,5 +1,6 @@
 {{ $headless := .Site.GetPage "/pages" }}
 {{ $reusablePages := $headless.Resources.ByType "page" }}
+{{ $reusablePages := sort $reusablePages ".Params.weight" }}
 {{ range $reusablePages }}
 <section class="bar no-mb" style="background: url('{{ .Params.background | relURL }}'); background-repeat: no-repeat;">
   <div class="container" style="padding-top: 3em; padding-bottom: 3em;">
