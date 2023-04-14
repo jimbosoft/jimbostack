@@ -405,7 +405,7 @@ pluralizelisttitles = false
     latitude = "-12.043333"
     longitude = "-77.028333"
 
-    # Style options: light-blue, blue, green, marsala, pink, red, turquoise, violet
+    # Style options: lightblue, blue, green, marsala, pink, red, turquoise, violet
     style = "lightblue"
 
     # Since this template is static, the contact form uses www.formspree.io as a
