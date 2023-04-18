@@ -3,7 +3,8 @@
 {{ $reusablePages := sort $reusablePages ".Params.weight" }}
 {{ range $reusablePages }}
 <section class="bar no-mb" style="background: url('{{ .Params.background | relURL }}'); background-repeat: no-repeat;">
-  <div class="container" style="padding-top: 3em; padding-bottom: 3em;">
+  <div class="light-mask"></div>
+   <div class="container" style="position: relative; padding-top: 3em; padding-bottom: 3em;">
     <div class="row">
       <div class="col-12 col-sm-offset-6">
         <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
