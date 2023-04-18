@@ -1,10 +1,6 @@
 weight: 3
 title: "Design"
-description: >
-  <ul class="list-style-none">
-    <li>Clean and elegant design</li>
-    <li>Full width and boxed mode</li>
-    <li>Easily readable Roboto font and awesome icons</li>
-    <li>7 preprepared colour variations</li>
-  </ul>
-image: "img/carousel/template-easy-customize.png"
+description: "<p> The idea of integrating systems is fairly simple, but the devil, as always, lays in the detail </p>
+<p> We have many years experience as system integrators and can see problems before they arise. </p>
+<p> A solid design that caters for all edge conditions makes for solutions you can rely on </p>"
+image: "img/carousel/template-easy-customize.png" 

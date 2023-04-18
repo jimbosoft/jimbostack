@@ -1,0 +1,12 @@
+@import "style.default.css";
+/* Themed colors */
+:root {
+  --primary-accent: #4fbfa8;
+  --navbar-border-top: #2d7b6b;
+  --button-border: #389985;
+  --link-focus: #348e7b;
+  --form-shadow: rgba(79, 191, 168, 0.6);
+  --pagination-bg: #bfe8df;
+  --link-hover-bg: #3aa18c;
+  --navbar-focus: #9adacd;
+}
