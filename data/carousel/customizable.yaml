@@ -1,9 +1,11 @@
 weight: 4
-title: "Easy to customize"
+title: "Technology Consultants"
 description: >
-  <ul class="list-style-none">
-    <li>7 preprepared colour variations.</li>
-    <li>Easily to change fonts</li>
-  </ul>
-image: "img/carousel/template-easy-code.png"
-href: "https://devcows.github.io/hugo-universal-theme/"
+  <p> We can work closely with senior management to provide expert advice on the use and 
+  implementation of technology solutions to achieve business goals and objectives. </p>
+  <p>Analyzing complex technical problems, 
+  identifying potential solutions, and presenting recommendations to senior 
+  management in a clear and understandable way. </p>
+  <p>Provide guidance on IT strategy, software and hardware solutions, security, and risk management. </p>
+image: img/carousel/template-easy-code.png
+href: https://devcows.github.io/hugo-universal-theme/
