@@ -2,7 +2,7 @@
 {{ $reusablePages := $headless.Resources.ByType "page" }}
 {{ $reusablePages := sort $reusablePages ".Params.weight" }}
 {{ range $reusablePages }}
-<section class="bar no-mb" style="background: url('{{ .Params.background | relURL }}'); background-repeat: no-repeat;">
+<section class="bar no-mb" style="background: url('{{ .Params.background | relURL }}'); background-repeat: no-repeat; background-size: cover;">
   <div class="light-mask"></div>
    <div class="container" style="position: relative; padding-top: 3em; padding-bottom: 3em;">
     <div class="row">
