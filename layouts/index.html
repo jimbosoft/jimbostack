@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="hero">
+    <div class="hero__image">
+        <img src="/images/Jim.jpg" alt="Hero Image">
+    </div>
+    <div class="hero__content">
+        <h1>{{ .Site.Title }}</h1>
+        <p>{{ .Site.Params.description }}</p>
+        <div class="hero__text">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+{{ end }}

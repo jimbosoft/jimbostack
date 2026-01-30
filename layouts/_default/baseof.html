@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+    <link rel="stylesheet" href="/css/style.css?v=2">
+</head>
+<body>
+    <nav class="menu">
+        <div class="menu__inner">
+            <a href="/" class="menu__logo"><img src="/images/lsd-logo4.png" alt="{{ .Site.Title }}"></a>
+            <ul class="menu__list">
+                {{ range sort .Site.Sections ".Weight" }}
+                <li class="menu__item">
+                    <a href="{{ .RelPermalink }}" class="menu__link">{{ .Title }}</a>
+                    {{ if .Pages }}
+                    <ul class="submenu">
+                        {{ range sort .Pages ".Weight" }}
+                        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                        {{ end }}
+                    </ul>
+                    {{ end }}
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer>
+        <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+    </footer>
+</body>
+</html>

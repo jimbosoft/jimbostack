@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to My Site on My Custom Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to My Site on My Custom Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Details</title>
+      <link>http://localhost:1313/more/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/more/details/</guid>
+      <description>When more is not enough</description>
+    </item>
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/blog/first-post/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/first-post/</guid>
+      <description>This is my first blog post on the new site.&#xA;Getting Started Building a custom Hugo site without themes gives you complete control over the design and functionality.&#xA;Benefits Full customization No theme dependencies Clean, minimal code Better performance </description>
+    </item>
+    <item>
+      <title>Project One</title>
+      <link>http://localhost:1313/projects/project-one/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project-one/</guid>
+      <description>This is my first project. It demonstrates how individual pages appear in the navigation submenu.&#xA;Features Feature 1 Feature 2 Feature 3 Description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    <item>
+      <title>Project Two</title>
+      <link>http://localhost:1313/projects/project-two/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project-two/</guid>
+      <description>This is my second project, also appearing in the navigation submenu.&#xA;Overview This project showcases different capabilities and approaches.&#xA;Technologies Used Hugo HTML/CSS JavaScript </description>
+    </item>
+  </channel>
+</rss>
