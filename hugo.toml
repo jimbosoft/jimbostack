@@ -1,10 +1,11 @@
 baseURL = "https://example.com"
-title = "My Custom Site"
+title = "Jimbotech"
 languageCode = "en-us"
 
 [params]
-  description = "A custom Hugo site"
-  author = "Your Name"
+  description = "Jimbotech Personal"
+  author = "Jim"
 
 [menu]
   # Menus will be auto-generated from content structure
+  
