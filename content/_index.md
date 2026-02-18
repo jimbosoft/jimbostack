@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Site"
+title: "Jimbotech Greetings"
 ---
 
 Welcome to my custom Hugo site! This is the homepage with a split-screen layout.
