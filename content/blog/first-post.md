@@ -15,3 +15,4 @@ Building a custom Hugo site without themes gives you complete control over the d
 - No theme dependencies
 - Clean, minimal code
 - Better performance
+  

@@ -11,3 +11,4 @@ This site demonstrates:
 - Dynamic navigation based on content structure
 - Split-screen homepage design
 - Responsive design
+  
