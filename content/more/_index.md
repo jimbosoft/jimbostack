@@ -1,6 +1,6 @@
 ---
-title: "More"
+title: "Yes, what is it all about?"
 weight: 10
 ---
 
-Welcome to the More section.
+Well, I am not going to talk about all of it, just this site. 
