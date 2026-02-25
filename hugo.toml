@@ -3,7 +3,7 @@ title = "Jimbotech"
 languageCode = "en-us"
 
 [params]
-  description = "Jimbotechs Personal Homepage"
+  #description = "Jimbotechs Personal Homepage"
   author = "Jim"
 
 [menu]

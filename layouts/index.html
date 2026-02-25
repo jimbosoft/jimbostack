@@ -1,7 +1,11 @@
 {{ define "main" }}
 <div class="hero">
     <div class="hero__image">
-        <img src="/images/Jim.jpg" alt="Hero Image">
+        <div class="carousel">
+            <img src="/images/Jim.jpg" alt="Jim" class="carousel__image active">
+            <img src="/images/try.jpeg" alt="Fuzzy Fur Feet" class="carousel__image">
+            <img src="/images/cgo_talk.jpg" alt="CGO Talk" class="carousel__image">
+        </div>
     </div>
     <div class="hero__content">
         <h1>{{ .Title }}</h1>
@@ -11,4 +15,16 @@
         </div>
     </div>
 </div>
+<script>
+let currentSlide = 0;
+const slides = document.querySelectorAll('.carousel__image');
+
+function showSlide(n) {
+    slides.forEach(slide => slide.classList.remove('active'));
+    currentSlide = (n + slides.length) % slides.length;
+    slides[currentSlide].classList.add('active');
+}
+
+setInterval(() => showSlide(currentSlide + 1), 4000);
+</script>
 {{ end }}

@@ -1,6 +1,7 @@
 ---
-title: "Yes, what is it all about?"
+title: "About"
 weight: 10
 ---
 
-Well, I am not going to talk about all of it, just this site. 
+## Well, what is this site all about?
+ 
