@@ -1,5 +1,5 @@
 ---
-title: "Details"
+title: "Site Details"
 weight: 5
 ---
 

@@ -1,6 +1,7 @@
 ---
-title: "More"
+title: "About"
 weight: 10
 ---
 
-Welcome to the More section.
+## Well, what is this site all about?
+ 
