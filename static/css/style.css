@@ -282,11 +282,39 @@ main {
 .content__body table {
     width: 100%;
     border-collapse: collapse;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+.content__body table.legend {
+    font-size: 0.85rem;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.content__body table.legend td {
+    border: none;
+    padding: 2px 12px;
 }
 
 .content__body td {
-    padding: 12px;
+    padding: 8px 12px;
     border: 1px solid #ddd;
+    vertical-align: top;
+}
+
+.content__body mark,
+.highlight {
+    background-color: #ffeb3b;
+    padding: 2px 4px;
+}
+
+.content__body .text-red {
+    color: #e53935;
+}
+
+.content__body .text-blue {
+    color: #137bea;
 }
 
 .page-list {
