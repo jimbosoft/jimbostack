@@ -64,8 +64,7 @@ body {
 }
 main {
     flex: 1;
-    display: flex;
-    min-height: 0; /* Important: prevents flex children from overflowing */
+    min-height: 0;
 }
 
 /* Navigation Menu (inspired by hello-friend-ng) */
@@ -172,7 +171,7 @@ main {
     grid-template-columns: 1fr 1fr;
     flex: 1;
     min-height: 0;
-    /* min-height: calc(100vh - 60px); */
+    height: 100%;
  }
 .hero__image {
     /* background-color: #eee; */
@@ -237,9 +236,11 @@ main {
 
 /* Content Styles */
 .content, .section {
-    max-width: 800px;
+    max-width: 1400px;
     margin: 40px auto;
     padding: 0 20px;
+    overflow-y: auto;
+    max-height: calc(100vh - 140px);
 }
 
 .content header, .section header {
@@ -260,6 +261,60 @@ main {
 .content__body {
     font-size: 1.1rem;
     line-height: 1.8;
+}
+
+.content__body ul {
+    list-style: disc;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.content__body ol {
+    list-style: decimal;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.content__body li {
+    margin-bottom: 8px;
+}
+
+.content__body table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+.content__body table.legend {
+    font-size: 0.85rem;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.content__body table.legend td {
+    border: none;
+    padding: 2px 12px;
+}
+
+.content__body td {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    vertical-align: top;
+}
+
+.content__body mark,
+.highlight {
+    background-color: #ffeb3b;
+    padding: 2px 4px;
+}
+
+.content__body .text-red {
+    color: #e53935;
+}
+
+.content__body .text-blue {
+    color: #137bea;
 }
 
 .page-list {
@@ -296,7 +351,6 @@ footer {
     background-color: #666;
     color: #fff;
     text-align: center;
-    /* padding: 20px; */
 }
 
 /* Responsive */
