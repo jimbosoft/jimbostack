@@ -2,9 +2,18 @@
 <div class="hero">
     <div class="hero__image">
         <div class="carousel">
-            <img src="/images/Jim.jpg" alt="Jim" class="carousel__image active">
-            <img src="/images/try.jpeg" alt="Fuzzy Fur Feet" class="carousel__image">
-            <img src="/images/cgo_talk.jpg" alt="CGO Talk" class="carousel__image">
+            <div class="carousel__item active">
+                <img src="/images/Jim.jpg" alt="Jim" class="carousel__image">
+                <div class="carousel__caption">Ready for my yoga retreat</div>
+            </div>
+            <div class="carousel__item">
+                <img src="/images/try.jpeg" alt="Fuzzy Fur Feet" class="carousel__image">
+                <div class="carousel__caption">Corporate try-hard athlon</div>
+            </div>
+            <div class="carousel__item">
+                <img src="/images/cgo_talk.jpg" alt="CGO Talk" class="carousel__image">
+                <div class="carousel__caption">Speeching at Golang Meetup in Melbourne</div>
+            </div>
         </div>
     </div>
     <div class="hero__content">
@@ -17,7 +26,7 @@
 </div>
 <script>
 let currentSlide = 0;
-const slides = document.querySelectorAll('.carousel__image');
+const slides = document.querySelectorAll('.carousel__item');
 
 function showSlide(n) {
     slides.forEach(slide => slide.classList.remove('active'));
