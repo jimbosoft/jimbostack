@@ -1,6 +1,7 @@
 ---
 title: "Tiroler Knodel"
 date: 2026-02-26
+draft: true
 ---
 Dumplings Austrian style. This dish is one of my favorite childhood foods—something I've been trying to recreate for years, without much success yet, but I'm not giving up. Stay tuned for updates.
 
