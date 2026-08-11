@@ -1,5 +1,5 @@
 ---
-title: "House Maintenance Log"
+title: "House Maintenance"
 date: 2026-07-14
 ---
 
