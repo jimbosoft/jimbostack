@@ -5,6 +5,9 @@ date: 2026-008-11
 One of the all time favourites. A heart warmer, a soup to reboot. Usually made in winter when Celeriac bulbs (root) are in season. It is the magic ingredient. Apparently only chefs know about it, but now you do too.
 
  <!--more-->
+ <br>
+<a href="/images/hamhock.jpg" target="_blank"><img src="/images/hamhock.jpg" alt="laundry floor" width="200"></a>
+<br>
 
 - 250 g Dumpling bread
 - Salt
