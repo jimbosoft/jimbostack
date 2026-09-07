@@ -7,7 +7,7 @@ With all the madness around I am pondering how we got here. As you get older thi
 
 <!--more-->
 <br>
-I can’t help wondering what it takes not to lose your mind. And no, I’m not talking about mental health, “wow is me” therapy-speak. I mean the everyday sanity that stops you from either taking revenge on the world or moving into a cave and starting counting rocks. The kind of normal madness we all carry around. It’s just a question of personality and your ability to deal with life. In the extreme, if you’re really good at it, it might even lead to happiness. But let’s start with the modest goal of not going completely mad.<br><br>
+I can’t help wondering what it takes, not to lose your mind. And no, I’m not talking about mental health, “wow is me” therapy-speak. I mean the everyday sanity. The one that stops you from either taking revenge on the world, or moving into a cave and to start counting rocks. The kind of normal madness we all carry around. Not going mad is determined by your personality and your ability to deal with life. In the extreme, if you’re really good at handling life, it might even lead to happiness. But let’s start with the modest goal of not going completely mad.<br><br>
 
 ## Living on your own
 I’ve noticed that people who live on their own tend to turn a bit funny after a while. Often angry. Often developing very strange ideas about things. Not necessarily full-blown conspiracy theorists, but still holding strong opinions that contradict common sense and basic reality.<br>
@@ -25,10 +25,10 @@ I’ve met numerous examples. You’d think work is the thing that drives you cr
 ## Trouble
 Yeah, things always go wrong. House stuff, car stuff, children stuff, neighbours… everything, all the bloody time. You wish it didn’t. You wish for tranquility, where everything just works and nobody hassles you.<br>
 
-And yet! Humans excel under adversity. If you don’t have constant trouble to deal with, you’ll go mad. Counter-intuitive, really, but true. Just look at the rich and famous. It’s almost impossible for them not to lose their minds.<br><br>
+And yet! Humans excel under adversity. If you don’t have constant trouble to deal with, you’ll go mad. Counter-intuitive, really, but true. Just look at the rich and famous. It’s almost impossible for them, not to lose their minds.<br><br>
 
 ## So what to do?
-Deal with it and pour yourself a big scotch at the end of the day. Light your pipe, sink into the big armchair, and pretend you’re in a period drama.<br>
+Deal with it and pour yourself a big scotch at the end of the day. Light a spliff and flop on the couch.<br>
 
 But wait—you shouldn’t do that either. It’s bad for your brain, say the doctors. They suspect it causes dementia.<br>
 

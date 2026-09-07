@@ -5,6 +5,16 @@ date: 2026-08-11
 I know there are many versions and good ones too. This is mine. Feel free to experiment and make it yours
 
  <!--more-->
+## Ingredients
+- chicken breast
+- 1 onion
+- garlic
+- broccoli stems (this is your chance to use them)
+- silver beet ( I use fresh from the garden, it's the best) or spinach
+- mushrooms
+- cream
+- pesto
+- 1 egg
 
 ## Prep
 You will need 2 frying pans. One of them deep enough to mix the sauce. And a pot to boil pasta<br><br>
@@ -32,13 +42,3 @@ In the mean time ...<br>
 Boil some water and cook the pasta. Add a little olive oil to stop them sticking together<br>
 Well done! Now serve and eat. Yummy!
 
-## Ingredients
-- chicken breast
-- 1 onion
-- garlic
-- broccoli stems (this is your chance to use them)
-- silver beet ( I use fresh from the garden, it's the best) or spinach
-- mushrooms
-- cream
-- pesto
-- 1 egg

@@ -22,3 +22,4 @@ Keeping track of maintenance jobs around the house. This log helps me remember w
 |2026-06-13| Replaced all the washers and re-greased the threads in the main bathroom toilet tap as it had completely seized | Plumbing has a problem. Water causes metal to corrode. Taps that a rarely used, don't work when you need them |
 |2026-07-19|Cleaned car port gutter. Removed/Replaced gutter guard | Tried bulging to see if it stops it from collapsing <a href="/images/gutter.jpg" target="_blank"><img src="/images/gutter.jpg" alt="gutter guard" width="100"></a>| 
 |2026-08-09| Replacing the laundry floor <a href="/images/laundry1.jpg" target="_blank"><img src="/images/laundry1.jpg" alt="laundry floor" width="100"></a>| There will be lessons learnt
+|2026-08-19| Arborist inspected and trimmed our big tree in the backyard| 
