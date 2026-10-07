@@ -1,0 +1,15 @@
+---
+title: "Dark Brilliance - Paul Strathern"
+date: 2026-08-15
+---
+Talks about the "Age of Reason" (and un-reason) which is the period between the end of the Renaissance and the start of the Enlightenment in Europe
+
+ <!--more-->
+
+It starts at Descartes and ends with Newton. The science is amazing, but it goes through a lot of painters and the developments in art, which was not that interesting to me. There was a bit too much art and not enough science. It also covers a fair amount of politics, which helps to understand some of the current conditions. Here I have some quotes from the book that particularly enthused me. The first is the very current topic of free trade vs tariffs. It offers a more educated view then what most of the current commentators have to offer. The second is a little reminder on how science "works".<br><br>
+
+- Despite the western world's present article of faith in free trade, it has become clear that this is far from being a universal panacea. Some of the greatest economic 'leaps forward' in modern history have been accompanied by protective tariffs, along with state investment in infrastructure and locally protected industries. To give but three examples: First, Hamilton's protection of the newly independent United States, shielding its nascent industries from external competition and allowing it to develop the foundations of what would later become the world's leading economy. Second, Bismarck's strictly regulated protection of Prussia-led Germany, which set it on course to becoming the leading European commercial powerhouse. And most recently, China's authoritarian and protectionist policy, which in the past decades has seen it achieve the greatest 'leap forward' in all human history, lifting many hundreds of millions out of abject poverty. The west's assumption that a free market and autocratic rule are incompatible and economically unsuccessful has been shown to be no more than a modern folk belief, the paper tiger of freedom and democratic liberalism. Sadly, these may have proved sufficient for the centuries of modern progress which grew out of the Age of Reason, but it has now been revealed that they are not a necessary condition for progress.<br><br>
+  
+- During the ensuing centuries, Pascal's view would prevail. Not until the advent of quantum theory would Descartes's theory be confirmed though not in any way that Descartes could possibly have foreseen. This is a classic illustration of how scientific understanding can evolve as our knowledge of the world grows more extensive. Science is merely a series of hypotheses which agree with experimental findings. The experiments do not prove the findings with the rigour of a mathematical proof. As experiments become more precise or extensive, they frequently undermine previous findings. However, later findings frequently refine the previous experimental evidence, rather than simply contradicting it. As previously noted, this is why the calculations of Newtonian physics were sufficient to send a rocket to the moon, despite the fact that Newtonian physics had been superseded by Einstein's more complex relativity.
+
+

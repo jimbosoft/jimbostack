@@ -3,7 +3,7 @@ title: "House Maintenance"
 date: 2026-07-14
 ---
 
-Keeping track of maintenance jobs around the house. This log helps me remember what was done, when it was done, and — most importantly — what I learned along the way so I don't make the same mistakes twice. It is also an interesting lesson for anybody thinking that owning a house will make your life easier.
+Keeping track of maintenance jobs around the house. This log helps me remember what was done, when it was done, and — most importantly — what I learnt along the way so I don't make the same mistakes twice. It is also an interesting lesson for anybody thinking that owning a house will make your life easier.
 
 <!--more-->
 <br> &nbsp;<br> &nbsp;
@@ -21,5 +21,5 @@ Keeping track of maintenance jobs around the house. This log helps me remember w
 |2026-07-13| Main toilet keeps running. Replaced internal for cistern in main bathroom. Fell apart during inspection due to age.| I learned how to setup the universal corona replacement kit|
 |2026-06-13| Replaced all the washers and re-greased the threads in the main bathroom toilet tap as it had completely seized | Plumbing has a problem. Water causes metal to corrode. Taps that a rarely used, don't work when you need them |
 |2026-07-19|Cleaned car port gutter. Removed/Replaced gutter guard | Tried bulging to see if it stops it from collapsing <a href="/images/gutter.jpg" target="_blank"><img src="/images/gutter.jpg" alt="gutter guard" width="100"></a>| 
-|2026-08-09| Replacing the laundry floor <a href="/images/laundry1.jpg" target="_blank"><img src="/images/laundry1.jpg" alt="laundry floor" width="100"></a>| There will be lessons learnt
+|2026-08-09| Replacing the laundry floor <a href="/images/laundry1.jpg" target="_blank"><img src="/images/laundry1.jpg"  alt="laundry floor" width="100"></a> <br>with excellent results <a href="/images/laundry2.jpg" target="_blank"><img src="/images/laundry2.jpg"  alt="laundry floor" width="100"></a> | Went a lot better then expected. Laying the cement sheeting was reasonably easy, needed to add an additional bearer. Painting the brick wall was easy and produced and amazing result
 |2026-08-19| Arborist inspected and trimmed our big tree in the backyard| 
