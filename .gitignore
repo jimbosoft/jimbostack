@@ -1,1 +1,5 @@
 public/
+firebase-debug.log
+.firebase/
+.vscode/
+

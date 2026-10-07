@@ -1,6 +1,6 @@
 ---
 title: "About"
-weight: 10
+weight: 65
 ---
 
 ## Well, what is this site all about?
