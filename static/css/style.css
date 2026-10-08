@@ -219,7 +219,8 @@ main {
     text-align: center;
     font-family: 'Inter', sans-serif;
     font-size: 1.8rem;
-    font-weight: 400; 
+    font-weight: 400;
+    padding: 10px 16px;
 }
 
 .hero__image img {
@@ -395,6 +396,30 @@ footer {
     .menu__list {
         margin-top: 10px;
         gap: 20px;
+    }
+
+    .carousel {
+        min-height: 300px;
+    }
+
+    .carousel__caption {
+        font-size: 1.1rem;
+        padding: 8px 12px;
+        line-height: 1.3;
+    }
+
+    /* Let the page flow naturally on mobile instead of forcing a
+       fixed-height internal scroll box, which caused the footer to
+       overlap the end of blog/content text. */
+    body {
+        height: auto;
+        min-height: 100vh;
+    }
+
+    .content, .section {
+        max-height: none;
+        overflow-y: visible;
+        margin: 20px auto;
     }
 }
 
