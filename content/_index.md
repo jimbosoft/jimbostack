@@ -8,7 +8,7 @@ This site is a bit of fun and a place for my musings and projects. Providing con
 
 I am also highly professional and always looking for my next gig. You can explore my projects and skills [here](/projects/).
 
-There will also be recipes, because I am generally dissatisfied with how they are presented online. 
+I've had this site up for a while and the response has been somewhat muted. The response that made me laugh: "Why does it even exist" Well, it exists because I exist. Lets be part of the democratization of the internet. Don't submit to the corporate monsters and the toxic social media, build you own!
 
 Everything here is a work in progress, because life is a work in progress
   
